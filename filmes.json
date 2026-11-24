@@ -1,5 +1,3 @@
 [
-  { "nome": "Meu primeiro vídeo", "youtube": "https://youtu.be/rSwCL_kcuQs", "playlist": 1 },
-  { "nome": "Segundo vídeo", "youtube": "https://youtu.be/LtTEfiJrBhc", "playlist": 1 },
-  { "nome": "Terceiro vídeo", "youtube": "https://youtu.be/xTGA7qmCeWc", "playlist": 1 },
+    { "nome":"Dragon Ball árvore do poder","youtube":"https://youtu.be/rSwCL_kcuQs","categoria":"anime" },
 [
