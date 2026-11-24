@@ -1,1 +1,5 @@
-
+[
+  { "nome": "Meu primeiro vídeo", "youtube": "https://youtu.be/rSwCL_kcuQs" },
+  { "nome": "Segundo vídeo", "youtube": "https://youtu.be/LtTEfiJrBhc" },
+  { "nome": "Terceiro vídeo", "youtube": "https://youtu.be/xTGA7qmCeWc" }
+]
