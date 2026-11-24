@@ -1,6 +1,5 @@
 [
-  { "nome": "Meu primeiro vídeo", "youtube": "https://youtu.be/rSwCL_kcuQs" },
-  { "nome": "Segundo vídeo", "youtube": "https://youtu.be/LtTEfiJrBhc" },
-  { "nome": "Terceiro vídeo", "youtube": "https://youtu.be/xTGA7qmCeWc" },
-  { "nome": "Quarto vídeo", "youtube": "https://youtube.com/shorts/lJYQC1rwjXY" }
+  { "nome": "Dragon ball a árvore do poder", "youtube": "https://youtu.be/rSwCL_kcuQs" },
+  { "nome": "Dragon ball a vouta dos Androids", "youtube": "https://youtu.be/LtTEfiJrBhc" },
+  { "nome": "Dragon ball golpe do dragao", "youtube": "https://youtu.be/xTGA7qmCeWc" }
 ]
